@@ -1,4 +1,0 @@
-interface:
-  display_name: "尼子塔罗"
-  short_description: "以韦特塔罗进行四季牌阵抽牌、季度解读、行动建议与定期复盘"
-  default_prompt: "使用 $nizi-tarot 为我进行本季度的四季塔罗抽牌与解读。"
