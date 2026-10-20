@@ -1,0 +1,21 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private readings, reminders, output images, and temporary state
+session*.json
+*.lock
+.tarot-*
+private/
+runtime/
+outputs/
+
+# Local credentials and OS/editor files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

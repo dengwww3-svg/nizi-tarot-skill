@@ -1,0 +1,13 @@
+interface:
+  display_name: 尼子塔羅｜抽牌與生活指引
+  short_description: 聊天內完成韋特選牌、牌圖解讀與補牌追問，結合生日節日模式及整體正負向總結
+  default_prompt: 請使用 $nizi-tarot，依我的問題推薦牌陣，等我確認後抽牌並直接展示牌圖與解讀，最後總結整體傾向，也支援沿用原牌補牌追問。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
